@@ -1,0 +1,7 @@
+{
+  "users": {},
+  "globalPricing": {
+    "tea": 10,
+    "coffee": 15
+  }
+}
