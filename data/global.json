@@ -156,6 +156,12 @@
             "time": "2026-04-07T10:54:15.762Z",
             "session": "morning",
             "price": 15
+          },
+          {
+            "type": "tea",
+            "time": "2026-04-07T10:54:40.769Z",
+            "session": "evening",
+            "price": 10
           }
         ]
       }
