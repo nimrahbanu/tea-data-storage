@@ -180,6 +180,12 @@
             "time": "2026-04-07T10:54:47.918Z",
             "session": "evening",
             "price": 10
+          },
+          {
+            "type": "coffee",
+            "time": "2026-04-07T10:54:49.451Z",
+            "session": "morning",
+            "price": 15
           }
         ]
       }
