@@ -1,5 +1,11 @@
 {
-  "users": {},
+  "users": {
+    "test@gmail.com": {
+      "name": "nimrah",
+      "email": "test@gmail.com",
+      "entries": {}
+    }
+  },
   "globalPricing": {
     "tea": 10,
     "coffee": 15
