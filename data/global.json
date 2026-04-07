@@ -17,16 +17,7 @@
     "skant4169@gmail.com": {
       "name": "Neeraj kumar",
       "email": "skant4169@gmail.com",
-      "entries": {
-        "2026-04-07": [
-          {
-            "type": "tea",
-            "time": "2026-04-07T10:33:27.434Z",
-            "session": "evening",
-            "price": 10
-          }
-        ]
-      }
+      "entries": {}
     }
   },
   "globalPricing": {
