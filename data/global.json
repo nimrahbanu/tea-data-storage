@@ -3,7 +3,16 @@
     "test@gmail.com": {
       "name": "nimrah",
       "email": "test@gmail.com",
-      "entries": {}
+      "entries": {
+        "2026-04-07": [
+          {
+            "type": "tea",
+            "time": "2026-04-07T08:18:41.944Z",
+            "session": "morning",
+            "price": 10
+          }
+        ]
+      }
     }
   },
   "globalPricing": {
