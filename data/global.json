@@ -30,6 +30,12 @@
             "time": "2026-04-07T10:47:54.480Z",
             "session": "evening",
             "price": 10
+          },
+          {
+            "type": "coffee",
+            "time": "2026-04-07T10:47:56.600Z",
+            "session": "evening",
+            "price": 15
           }
         ]
       }
