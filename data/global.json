@@ -6,12 +6,6 @@
       "entries": {
         "2026-04-07": [
           {
-            "type": "coffee",
-            "time": "2026-04-07T08:18:45.181Z",
-            "session": "morning",
-            "price": 15
-          },
-          {
             "type": "tea",
             "time": "2026-04-07T08:42:43.814Z",
             "session": "morning",
